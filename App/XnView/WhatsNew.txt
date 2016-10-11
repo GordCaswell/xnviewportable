@@ -1,8 +1,17 @@
-                             NConvert v6.88
-                              XnView v2.36
+                             NConvert v6.92
+                              XnView v2.37
 
                    Copyright (c) 1991-2016 Pierre-E Gougelet
                            All Rights Reserved.
+
+
+XnView v2.37 (LIBFORMAT v6.92) 10/11/2016:
+
+     * Better HiDPI support
+     * Change timestamp and video
+     * GPS direction - http://newsgroup.xnview.com/viewtopic.php?f=35&t=33587
+     * Right click (make selection) and delete - http://newsgroup.xnview.com/viewtopic.php?f=36&t=33700
+     * NConvert: Multipage extract - http://newsgroup.xnview.com/viewtopic.php?f=57&t=33879
 
 
 XnView v2.36 (LIBFORMAT v6.88) 04/29/2016:
