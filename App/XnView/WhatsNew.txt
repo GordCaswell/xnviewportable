@@ -5,6 +5,12 @@
                            All Rights Reserved.
 
 
+XnView v2.38 (LIBFORMAT v6.93) 10/28/2016:
+
+     * Sort by exif - http://newsgroup.xnview.com/viewtopic.php?f=36&t=32387
+     * Zooming instead file navigation - http://newsgroup.xnview.com/viewtopic.php?f=36&t=33917
+
+
 XnView v2.37 (LIBFORMAT v6.92) 10/11/2016:
 
      * Better HiDPI support
