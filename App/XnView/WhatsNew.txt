@@ -1,8 +1,14 @@
                              NConvert v6.92
-                              XnView v2.37
+                              XnView v2.39
 
                    Copyright (c) 1991-2016 Pierre-E Gougelet
                            All Rights Reserved.
+
+
+XnView v2.39 (LIBFORMAT v6.94) 11/08/2016:
+
+     * no IPTC fields in tooltip/info
+     * Thumbnail for blend file
 
 
 XnView v2.38 (LIBFORMAT v6.93) 10/28/2016:
